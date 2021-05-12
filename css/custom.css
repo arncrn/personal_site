@@ -1,0 +1,11 @@
+#github, #linkedin {
+  max-height: 10rem;
+}
+#resume {
+  max-height: 13rem;
+}
+
+footer p {
+  color: black;
+  font-size: 2rem;
+}
