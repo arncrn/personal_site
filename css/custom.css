@@ -9,3 +9,7 @@ footer p {
   color: black;
   font-size: 2rem;
 }
+
+#api-q a, #beekeeper a, #sealbin a {
+  color: black;
+}
